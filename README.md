@@ -35,16 +35,14 @@ A **Calculadora de Impostos do Brasil** é uma aplicação em C++ desenvolvida p
 > 💻 Exemplo da interface no terminal:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/000000000-terminal-demo.png" alt="Demonstração no terminal" width="700">
+  <img src="[https://user-images.githubusercontent.com/00000000/000000000-terminal-demo.png](https://private-user-images.githubusercontent.com/124938721/463479226-d3439f3a-4ef1-459d-af5b-a7e47415a51b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5NDMxMDEsIm5iZiI6MTc1MTk0MjgwMSwicGF0aCI6Ii8xMjQ5Mzg3MjEvNDYzNDc5MjI2LWQzNDM5ZjNhLTRlZjEtNDU5ZC1hZjViLWE3ZTQ3NDE1YTUxYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwOFQwMjQ2NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMThlZjExZjVkYWE5ZjkzMWZjMGUxZmRjYjlhM2Q5NGY3ZTY5OWUwNzYyYjg4MmFmZTAyZTc0MWE0ZWNmZDU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.i8zoneC6r5d3bL_vPPb-nnmUgrEB1FRhKb_tHlQlIlA)" alt="Demonstração no terminal" width="700">
 </p>
 
 > 📊 Estimativa de aposentadoria:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/000000000-aposentadoria-demo.png" alt="Estimativa de aposentadoria" width="700">
+  <img src="https://private-user-images.githubusercontent.com/124938721/463479301-dc124c4a-7661-44cb-ad1a-8c78d392cc5e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5NDMxMDEsIm5iZiI6MTc1MTk0MjgwMSwicGF0aCI6Ii8xMjQ5Mzg3MjEvNDYzNDc5MzAxLWRjMTI0YzRhLTc2NjEtNDRjYi1hZDFhLThjNzhkMzkyY2M1ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwOFQwMjQ2NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZjdhZDFjOTZlZmU2YmNjOTIzZDEzYmM2MGNlZjUyZmEzMTU1MTZmZTY3ZWM4YTRhOTE1NmRjZDliYTAzYjg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7psdFx_oyP_TW2rfTsbnkcJ15Hqu_yEQcZPmpvja5q0" alt="Estimativa de aposentadoria" width="700">
 </p>
-
-> *(substitua os links acima pelas capturas do seu programa rodando)*
 
 ---
 
